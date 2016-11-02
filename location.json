@@ -1,0 +1,29 @@
+[
+  {
+    "id":"1",
+    "name":"Burbank",  
+    "street":"111 Bur st",
+    "city":"LA",
+    "state":"CA",
+    "zip":"90019",
+    "country":"US"
+  },
+  {
+    "id":"2",
+    "name":"Houston St",  
+    "street":"West st",
+    "city":"Houston",
+    "state":"TX",
+    "zip":"75252",
+    "country":"US"
+  },
+  {
+    "id":"3",
+    "name":"Dallas",  
+    "street":"777 Main st",
+    "city":"Dallas",
+    "state":"TX",
+    "zip":"75252",
+    "country":"US"
+  }
+  ]

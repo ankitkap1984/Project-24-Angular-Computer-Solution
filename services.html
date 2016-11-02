@@ -1,0 +1,17 @@
+<div class="row">
+  <div class="col-lg-12">
+    <h2>Services</h2>
+    <div ng-repeat="serv in services">
+      	<div class="row service">
+      		<div class="col-md-2">
+      			<img ng-src="http://www.freeiconspng.com/uploads/{{serv.image}}">
+      		</div>
+      		<div class="col-md-10">
+      			<h3>{{serv.name}}</h3>
+      			<p>{{serv.description}}</p>
+     		<a href="contact.html" class="btn btn-primary">Contact</a>
+      		</div>
+      	</div>
+    	</div>
+  </div>  
+</div>
